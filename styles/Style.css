@@ -1,0 +1,23 @@
+/*h1{
+  font-size: 30px;
+  color: blue;
+}
+*/
+
+h2 {
+    text-transform: uppercase;
+    color: red;
+    font-weight: bold;
+}
+
+h5{
+    font-style: italic;
+}
+
+p, ul{
+    color: gray;
+}
+
+h6,h4{
+    font-weight: bold;
+}
